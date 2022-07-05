@@ -1,5 +1,5 @@
 # Stock-Market-Prediction
-The model help's to predict the stock price of a company for this project I have taken example of the apple stock price.
+The project help's to predict the stock price of a company for this project I have taken example of the apple stock price.
 
 The Dataset for this project is taken from kaggle it is also available in many other websites of Stock Markets
 
